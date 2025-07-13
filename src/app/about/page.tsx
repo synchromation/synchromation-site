@@ -30,14 +30,14 @@ export default function About() {
             <div className="bg-secondary p-8 rounded-lg mb-12">
               <h2 className="text-2xl font-medium text-primary mb-6">Our Story</h2>
               <p className="text-foreground leading-relaxed mb-6">
-                Founded in 2009, Synchromation has been at the forefront of mobile development, 
-                witnessing and contributing to the evolution of the mobile landscape. From the early 
-                days of iOS and Android to the modern era of Kotlin Multiplatform development, we&apos;ve 
+                Founded in 2009, Synchromation has been at the forefront of iOS development, 
+                witnessing and contributing to the evolution of Apple&apos;s mobile platform. From the early 
+                days of the iPhone to the modern era of SwiftUI and iOS development, we&apos;ve 
                 consistently delivered innovative solutions that push the boundaries of what&apos;s possible.
               </p>
               <p className="text-foreground leading-relaxed">
                 Our name reflects our core philosophy: the perfect synchronization of technology, 
-                design, and user experience. We believe that great mobile applications are born 
+                design, and user experience. We believe that great iOS applications are born 
                 from the seamless integration of these elements, creating experiences that feel 
                 intuitive, powerful, and delightful.
               </p>
@@ -53,7 +53,7 @@ export default function About() {
             <div className="bg-background border border-secondary p-8 rounded-lg">
               <h3 className="text-xl font-medium text-primary mb-4">Our Mission</h3>
               <p className="text-muted leading-relaxed">
-                To empower businesses and individuals through exceptional mobile experiences 
+                To empower businesses and individuals through exceptional iOS experiences 
                 that seamlessly blend cutting-edge technology with thoughtful design, creating 
                 applications that users love and businesses depend on.
               </p>
@@ -61,10 +61,10 @@ export default function About() {
             <div className="bg-background border border-secondary p-8 rounded-lg">
               <h3 className="text-xl font-medium text-primary mb-4">Our Values</h3>
               <ul className="text-muted leading-relaxed space-y-2">
-                <li>• Excellence in craftsmanship and attention to detail</li>
-                <li>• User-centric design and development approach</li>
+                <li>• Excellence in iOS craftsmanship and attention to detail</li>
+                <li>• User-centric design following Apple&apos;s guidelines</li>
                 <li>• Transparent communication and collaboration</li>
-                <li>• Continuous learning and innovation</li>
+                <li>• Continuous learning and iOS innovation</li>
               </ul>
             </div>
           </motion.div>
@@ -84,7 +84,7 @@ export default function About() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-medium text-primary mb-2">Proven Excellence</h3>
-                <p className="text-muted text-sm">15+ years of delivering award-winning mobile applications</p>
+                <p className="text-muted text-sm">15+ years of delivering award-winning iOS applications</p>
               </div>
               <div className="p-6">
                 <div className="w-12 h-12 bg-accent rounded-lg mb-4 mx-auto flex items-center justify-center">
@@ -93,7 +93,7 @@ export default function About() {
                   </svg>
                 </div>
                 <h3 className="text-lg font-medium text-primary mb-2">Expert Team</h3>
-                <p className="text-muted text-sm">Senior developers with deep platform expertise</p>
+                <p className="text-muted text-sm">Senior iOS developers with deep platform expertise</p>
               </div>
               <div className="p-6">
                 <div className="w-12 h-12 bg-accent rounded-lg mb-4 mx-auto flex items-center justify-center">
@@ -101,8 +101,8 @@ export default function About() {
                     <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-medium text-primary mb-2">Full-Stack Solutions</h3>
-                <p className="text-muted text-sm">From concept to deployment and beyond</p>
+                <h3 className="text-lg font-medium text-primary mb-2">Complete iOS Solutions</h3>
+                <p className="text-muted text-sm">From concept to App Store and beyond</p>
               </div>
             </div>
           </motion.div>

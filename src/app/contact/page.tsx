@@ -18,7 +18,7 @@ export default function ContactPage() {
               Get In Touch
             </h1>
             <p className="text-xl text-muted max-w-3xl mx-auto">
-              Ready to start your mobile project? Let&apos;s discuss your requirements and create something amazing together.
+              Ready to start your iOS project? Let&apos;s discuss your requirements and create something amazing together.
             </p>
           </motion.div>
 
@@ -28,7 +28,7 @@ export default function ContactPage() {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              <h2 className="text-2xl font-medium text-primary mb-6">Let&apos;s Discuss Your Project</h2>
+              <h2 className="text-2xl font-medium text-primary mb-6">Let&apos;s Discuss Your iOS Project</h2>
               <ContactForm />
             </motion.div>
 

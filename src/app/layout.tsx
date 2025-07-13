@@ -17,9 +17,9 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Synchromation - Mobile Development Consultancy",
-  description: "Professional mobile development consultancy specializing in iOS and Android applications. Serving clients since 2009.",
-  keywords: ["mobile development", "iOS", "Android", "React Native", "Flutter", "UK", "consultancy"],
+  title: "Synchromation - iOS Development Consultancy",
+  description: "Professional iOS development consultancy specializing in iPhone and iPad applications. Serving clients since 2009.",
+  keywords: ["iOS development", "iPhone apps", "iPad apps", "Swift", "SwiftUI", "UK", "consultancy"],
 };
 
 export default function RootLayout({

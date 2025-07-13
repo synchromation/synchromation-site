@@ -24,7 +24,7 @@ export default function Home() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-xl md:text-2xl text-foreground mb-12 max-w-3xl mx-auto leading-relaxed"
             >
-              Mobile development consultancy delivering exceptional iOS and Android solutions since 2009
+              iOS development consultancy delivering exceptional iPhone and iPad applications since 2009
             </motion.p>
 
             <motion.div
@@ -57,7 +57,7 @@ export default function Home() {
               Our Expertise
             </h2>
             <p className="text-xl text-muted max-w-2xl mx-auto">
-              We specialize in crafting mobile experiences that delight users and drive business growth
+              We specialize in crafting iOS applications that delight users and drive business growth
             </p>
           </div>
 
@@ -87,12 +87,12 @@ export default function Home() {
             >
               <div className="w-12 h-12 bg-accent rounded-lg mb-6 flex items-center justify-center">
                 <svg className="w-6 h-6 text-background" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+                  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-medium text-primary mb-4">Android Development</h3>
+              <h3 className="text-xl font-medium text-primary mb-4">App Store Optimization</h3>
               <p className="text-muted leading-relaxed">
-                Modern Android applications using Kotlin and Jetpack Compose, following Material Design principles
+                Expert guidance on App Store submission, optimization, and compliance with Apple&apos;s guidelines
               </p>
             </motion.div>
 
@@ -104,12 +104,12 @@ export default function Home() {
             >
               <div className="w-12 h-12 bg-accent rounded-lg mb-6 flex items-center justify-center">
                 <svg className="w-6 h-6 text-background" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <path d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-medium text-primary mb-4">Cross-Platform</h3>
+              <h3 className="text-xl font-medium text-primary mb-4">UI/UX Design</h3>
               <p className="text-muted leading-relaxed">
-                Kotlin Multiplatform solutions for efficient cross-platform development with shared business logic
+                Beautiful, intuitive interfaces following Apple&apos;s Human Interface Guidelines for optimal user experience
               </p>
             </motion.div>
           </div>
@@ -127,7 +127,7 @@ export default function Home() {
               Ready to Build Something Great?
             </h2>
             <p className="text-xl text-muted mb-12 max-w-2xl mx-auto">
-              Let&apos;s discuss your mobile application needs and create a solution that exceeds expectations
+              Let&apos;s discuss your iOS application needs and create a solution that exceeds expectations
             </p>
             <Link
               href="/contact"

@@ -22,10 +22,10 @@ const mockPosts: BlogPost[] = [
   {
     slug: 'welcome-to-synchromation',
     title: "Welcome to Synchromation's New Blog",
-    excerpt: "Introducing our new blog where we'll share insights, tutorials, and updates about mobile development, best practices, and the latest trends in iOS and Android development.",
+    excerpt: "Introducing our new blog where we'll share insights, tutorials, and updates about iOS development, best practices, and the latest trends in iPhone and iPad development.",
     date: '2024-01-15',
     author: 'Synchromation Team',
-    tags: ['announcement', 'mobile-development', 'ios', 'android'],
+    tags: ['announcement', 'ios-development', 'ios', 'swift'],
     featured: true,
     content: '',
     readingTime: '5 min read',
@@ -42,15 +42,15 @@ const mockPosts: BlogPost[] = [
     readingTime: '8 min read',
   },
   {
-    slug: 'android-jetpack-compose-guide',
-    title: 'Android Jetpack Compose: Modern UI Development',
-    excerpt: 'Discover how Jetpack Compose is transforming Android UI development with its declarative approach. Learn key concepts, best practices, and practical examples for building beautiful Android apps.',
+    slug: 'ios-app-architecture-guide',
+    title: 'iOS App Architecture: Building Scalable Applications',
+    excerpt: 'Explore modern iOS architecture patterns including MVVM, Clean Architecture, and Coordinator patterns. Learn how to structure your iOS apps for maintainability and scalability.',
     date: '2024-01-29',
     author: 'Synchromation Team',
-    tags: ['android', 'jetpack-compose', 'ui', 'kotlin'],
+    tags: ['ios', 'architecture', 'swift', 'patterns'],
     featured: false,
     content: '',
-    readingTime: '10 min read',
+    readingTime: '12 min read',
   },
 ];
 

@@ -6,7 +6,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-light mb-4">Synchromation</h3>
             <p className="text-muted leading-relaxed">
-              Mobile development consultancy delivering exceptional iOS and Android solutions since 2009.
+              iOS development consultancy delivering exceptional iPhone and iPad applications since 2009.
             </p>
           </div>
           
@@ -14,9 +14,9 @@ export default function Footer() {
             <h4 className="text-lg font-medium mb-4">Services</h4>
             <ul className="space-y-2 text-muted">
               <li>iOS Development</li>
-              <li>Android Development</li>
-              <li>Kotlin Multiplatform</li>
-              <li>Mobile Strategy</li>
+              <li>SwiftUI Development</li>
+              <li>App Store Optimization</li>
+              <li>iOS Strategy</li>
               <li>App Modernization</li>
             </ul>
           </div>

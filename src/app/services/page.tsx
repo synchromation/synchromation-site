@@ -23,32 +23,32 @@ export default function Services() {
       )
     },
     {
-      title: "Android Development",
-      description: "Modern Android applications using Kotlin and Jetpack Compose",
+      title: "SwiftUI Development",
+      description: "Modern iOS interfaces using Apple's declarative UI framework",
       features: [
-        "Kotlin & Jetpack Compose",
-        "Material Design implementation",
-        "Google Play Store deployment",
-        "Room database & WorkManager",
-        "Firebase integration",
-        "Android architecture components"
+        "SwiftUI & Combine integration",
+        "Declarative UI development",
+        "iOS 14+ modern features",
+        "Animation & transitions",
+        "State management patterns",
+        "Accessibility compliance"
       ],
       icon: (
         <svg className="w-8 h-8 text-background" fill="currentColor" viewBox="0 0 20 20">
-          <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+          <path d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z" />
         </svg>
       )
     },
     {
-      title: "Kotlin Multiplatform",
-      description: "Share business logic across platforms while maintaining native UI",
+      title: "App Store Optimization",
+      description: "Expert guidance for successful App Store submission and growth",
       features: [
-        "Kotlin Multiplatform Mobile (KMM)",
-        "Shared business logic & networking",
-        "Native UI on each platform",
-        "Gradual adoption strategy",
-        "Type-safe API integration",
-        "Performance optimization"
+        "App Store submission process",
+        "Metadata & keyword optimization",
+        "App Review guidelines compliance",
+        "Performance monitoring",
+        "User acquisition strategies",
+        "Revenue optimization"
       ],
       icon: (
         <svg className="w-8 h-8 text-background" fill="currentColor" viewBox="0 0 20 20">
@@ -57,11 +57,11 @@ export default function Services() {
       )
     },
     {
-      title: "Mobile Strategy",
-      description: "Comprehensive mobile strategy and architecture consulting",
+      title: "iOS Strategy",
+      description: "Comprehensive iOS strategy and architecture consulting",
       features: [
-        "Technical architecture design",
-        "Platform selection guidance",
+        "iOS architecture design",
+        "Technology stack guidance",
         "Performance audit & optimization",
         "Security implementation",
         "Scalability planning",
@@ -107,7 +107,7 @@ export default function Services() {
               Our Services
             </h1>
             <p className="text-xl text-muted max-w-3xl mx-auto">
-              Comprehensive mobile development solutions tailored to your business needs
+              Comprehensive iOS development solutions tailored to your business needs
             </p>
           </motion.div>
 
