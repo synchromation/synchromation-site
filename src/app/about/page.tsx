@@ -73,6 +73,34 @@ export default function About() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.6 }}
+            className="bg-secondary p-8 rounded-lg mb-16"
+          >
+            <h2 className="text-2xl font-medium text-primary mb-6">Founder & Technical Lead</h2>
+            <div className="text-foreground leading-relaxed space-y-4">
+              <p>
+                <strong>Nick Banks</strong> brings over 15 years of iOS development expertise to Synchromation, 
+                having successfully delivered 35+ mobile applications with millions of downloads. His work has been 
+                featured by Apple on the App Store front page and consistently achieves 5-star user ratings.
+              </p>
+              <p>
+                Nick's distinguished career spans diverse industries including broadcast media, film production, 
+                and digital services. He holds two granted patents in video effects and audio technology, and has 
+                been recognised with prestigious awards including a SONY Gold Award and an Academy Award (Technical OSCAR®) 
+                as part of the LightWorks team.
+              </p>
+              <p>
+                With deep expertise in Swift, SwiftUI, and modern iOS architectures, Nick has led engineering teams 
+                at companies like Wise (formerly TransferWise) and Bauer Media, where he spearheaded the transformation 
+                from legacy codebases to cutting-edge iOS solutions while mentoring development teams and establishing 
+                best practices for scalable, accessible applications.
+              </p>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8, delay: 0.8 }}
             className="text-center"
           >
             <h2 className="text-3xl font-light text-primary mb-8">Why Choose Synchromation?</h2>
