@@ -121,7 +121,7 @@ export default function ContactPage() {
                 <p className="text-secondary mb-4">
                   We aim to respond swiftly to all enquiries. For urgent projects, don&apos;t hesitate to mention it in your message.
                 </p>
-                <p className="text-secondary text-sm">
+                <p className="text-secondary">
                   All consultations are free and without obligation. We&apos;re happy to discuss your project and provide initial guidance.
                 </p>
               </div>
