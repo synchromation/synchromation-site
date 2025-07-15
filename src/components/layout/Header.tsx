@@ -24,8 +24,8 @@ export default function Header() {
             <Image
               src="/synchromation-logo.png"
               alt="Synchromation"
-              width={189}
-              height={40}
+              width={280}
+              height={59}
               className="object-contain"
             />
           </Link>
