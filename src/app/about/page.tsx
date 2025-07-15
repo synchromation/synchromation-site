@@ -79,8 +79,9 @@ export default function About() {
             <div className="text-foreground leading-relaxed space-y-4">
               <p>
                 <strong>Nick Banks</strong> brings over 15 years of iOS development expertise to Synchromation, 
-                having successfully delivered 35+ mobile applications with millions of downloads. His work has been 
-                featured by Apple on the App Store front page and consistently achieves 5-star user ratings.
+                having successfully delivered 35+ mobile applications with millions of downloads. His apps have reached 
+                #1 in their categories on the App Store, with several applications achieving over 10 million users. 
+                His work has been featured by Apple on the App Store front page and consistently achieves 5-star user ratings.
               </p>
               <p>
                 Nick's distinguished career spans diverse industries including broadcast media, film production, 
@@ -90,8 +91,10 @@ export default function About() {
               </p>
               <p>
                 With deep expertise in Swift, SwiftUI, and modern iOS architectures, Nick has led engineering teams 
-                at companies like Wise (formerly TransferWise) and Bauer Media, where he spearheaded the transformation 
-                from legacy codebases to cutting-edge iOS solutions while mentoring development teams and establishing 
+                at companies like Wise (formerly TransferWise), where he spearheaded the transformation from legacy 
+                codebases to cutting-edge iOS solutions. He has also partnered with major brands including Bauer Media, 
+                creating bespoke applications for their radio stations. Currently, Nick is contributing his expertise 
+                as part of a team developing a leading mobile shopping application, while continuing to establish 
                 best practices for scalable, accessible applications.
               </p>
             </div>
